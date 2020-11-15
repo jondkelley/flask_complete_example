@@ -1,0 +1,2 @@
+Flask Login routes / User schema : https://github.com/cybermonkj/Qsite/blob/6b792f125c1dc5b0b6292e4279e6685ae94ff108/app.py
+Core flask examples : https://github.com/greyli/flask-examples
